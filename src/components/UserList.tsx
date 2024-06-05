@@ -61,7 +61,7 @@ const UserList: React.FC<UserListProps> = ({data}) => {
             </UserText>
           </ListItem>
         )}
-        contentContainerStyle={{flex: 1}}
+        contentContainerStyle={{flexGrow: 1}}
         ListEmptyComponent={
           <EmptyView>
             <EmptyBoxIcon size={120} />
