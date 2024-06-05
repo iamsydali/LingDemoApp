@@ -3,9 +3,7 @@
 
 Syed Ali Imran - React Native Developer Assessment Test
 
-## Demo
-
-![Demo](/assets/images/demo.png)
+<img src="/src/assets/images/demo.png" width="200">
 
 
 ## Tech Stack
